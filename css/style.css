@@ -139,10 +139,10 @@ div.work-names {
 }
 
 div.skill-names {
-    display: flexbox;
-    justify-content: flex-end;
+    display: inline-flex;
     font-family: 'Caladea', serif;
     text-transform: uppercase;
+    font-size: 30px;
     color: white;
     
 }
