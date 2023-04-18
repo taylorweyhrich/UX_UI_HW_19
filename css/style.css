@@ -92,14 +92,14 @@ a.profile img {
 
 div.about-me {
     display:flex;
-    justify-content: space-evenly;
+    flex-direction: row;
     
 }
 
 p.about-me-text {
     font-family: 'Caladea', serif;
-    font-size: 30px;
-    padding: 20px;
+    font-size: 20px;
+    padding: 100px;
     
 
 }
